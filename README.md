@@ -36,6 +36,7 @@
 
 1. [Архив полезных файлов для сервера и клиента](https://github.com/V3ct0r1024/pkodev2.forum/blob/main/ru/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%B8%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0.md)
 2. [Архив форума maindev.ru](https://github.com/V3ct0r1024/pkodev2.forum/blob/main/ru/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0%20maindev.ru/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0%20maindev.ru.md)
+3. [Архив форума serverdev.net](https://github.com/V3ct0r1024/pkodev2.forum/blob/main/ru/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0%20serverdev.net/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D1%84%D0%BE%D1%80%D1%83%D0%BC%D0%B0%20serverdev.net.md)
 
 #### Сборки серверов
 
@@ -49,7 +50,8 @@ To do: Подраздел пуст.
 
 #### Клиент
 
-To do: Подраздел пуст.
+1. [Официальные клиенты](https://github.com/V3ct0r1024/pkodev2.forum/blob/main/ru/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B.md)
+2. [Game.exe Info — Программа для просмотра информации о Game.exe](https://github.com/V3ct0r1024/pkodev2.forum/blob/main/ru/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82/Game.exe%20Info%20-%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BE%20Game.exe/Game.exe%20Info%20-%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BE%20Game.exe.md)
 
 #### Моды для клиента и сервера
 
